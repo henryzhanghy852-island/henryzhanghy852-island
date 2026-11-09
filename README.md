@@ -30,7 +30,7 @@ I am particularly interested in how models behave once they leave the benchmark 
 ---
 
 ### Projects
-Second Prize in the China National Final of the CTB Global Youth Research and Innovation Conference 
+Second Prize in the 2025 China National Final of the CTB Global Youth Research and Innovation Conference 
 with topic: employment challenges faced by visually impaired individuals in Hong Kong
 
 <!-- 有就加，没有就删掉本节。
