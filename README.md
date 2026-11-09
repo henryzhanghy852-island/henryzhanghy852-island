@@ -30,8 +30,6 @@ I am particularly interested in how models behave once they leave the benchmark 
 ---
 
 ### Projects
-Second Prize in the 2025 China National Final of the CTB Global Youth Research and Innovation Conference 
-with topic: employment challenges faced by visually impaired individuals in Hong Kong
 
 <!-- 有就加，没有就删掉本节。
 
@@ -41,7 +39,9 @@ One sentence on the problem, one on what you built, one on the result.
 
 -->
 
-_Projects will be listed here as they are published._
+_Second Prize in the 2025 China National Final of the CTB Global Youth Research and Innovation Conference 
+with topic: employment challenges faced by visually impaired individuals in Hong Kong
+_
 
 ---
 
