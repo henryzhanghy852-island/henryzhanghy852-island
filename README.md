@@ -32,6 +32,8 @@ I am particularly interested in how models behave once they leave the benchmark 
 ### Projects
 
 <!-- 有就加，没有就删掉本节。
+Second Prize in the China National Final of the CTB Global Youth Research and Innovation Conference 
+Topic employment challenges faced by visually impaired individuals in Hong Kong
 
 #### Project title
 One sentence on the problem, one on what you built, one on the result.
