@@ -15,7 +15,6 @@ I am particularly interested in how models behave once they leave the benchmark 
 | **School** | [Island School](https://www.island.edu.hk), Hong Kong |
 | **Year** | Year 11 (Y11) |
 | **School email** | [henry.zhang@online.island.edu.hk](mailto:henry.zhang@online.island.edu.hk) |
-| **Personal email** | [henry.zhanghy852@gmail.com](mailto:henry.zhanghy852@gmail.com) |
 | **GitHub** | [@henryzhanghy852-island](https://github.com/henryzhanghy852-island)  |
 | **OpenReview** | [`~Henry_H._Y._Zhang1`](https://openreview.net/profile?id=~Henry_H._Y._Zhang1) |
 
@@ -30,20 +29,11 @@ I am particularly interested in how models behave once they leave the benchmark 
 
 ---
 
-### Projects
 
-<!-- 有就加，没有就删掉本节。
+### Awards
 
-#### Project title
-One sentence on the problem, one on what you built, one on the result.
-`Python` `PyTorch` — [code](https://github.com/your-github-username/repo)
-
--->
-
-the Second Prize in the 2025 China National Final of the CTB Global Youth Research and Innovation Conference 
-with topic: employment challenges faced by visually impaired individuals in Hong Kong
-
-
+**Second Prize — CTB Global Youth Research and Innovation Conference, China National Final (2025)**
+Research project on the employment challenges faced by visually impaired individuals in Hong Kong.
 ---
 
 ### Interests
