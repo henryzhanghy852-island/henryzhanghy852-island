@@ -39,7 +39,7 @@ One sentence on the problem, one on what you built, one on the result.
 
 -->
 
-Second Prize in the 2025 China National Final of the CTB Global Youth Research and Innovation Conference 
+the Second Prize in the 2025 China National Final of the CTB Global Youth Research and Innovation Conference 
 with topic: employment challenges faced by visually impaired individuals in Hong Kong
 
 
