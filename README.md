@@ -15,7 +15,7 @@ I am particularly interested in how models behave once they leave the benchmark 
 | **School** | [Island School](https://www.island.edu.hk), Hong Kong |
 | **Year** | Year 11 (Y11) |
 | **School email** | [henry.zhang@online.island.edu.hk](mailto:henry.zhang@online.island.edu.hk) |
-| **GitHub** | [@your-github-username](https://github.com/your-github-username) <!-- 改成你自己的用户名 --> |
+| **GitHub** | [@your-github-username](https://github.com/henryzhanghy852-island) <!-- 改成你自己的用户名 --> |
 | **OpenReview** | `~Henry_Zhang1` <!-- 账号激活后，用 profile URL 里的真实 ID 替换 --> |
 
 ---
