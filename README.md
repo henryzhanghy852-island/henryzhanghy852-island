@@ -32,7 +32,7 @@ I am particularly interested in how models behave once they leave the benchmark 
 
 ### Awards
 
-**Second Prize — CTB Global Youth Research and Innovation Conference, China National Final (2025)**
+**National Conference High Distinction — CTB Global Youth Research and Innovation Conference, China National Final (2025)**
 Research project on the employment challenges faced by visually impaired individuals in Hong Kong.
 ---
 
