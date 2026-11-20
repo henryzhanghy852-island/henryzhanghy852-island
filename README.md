@@ -23,17 +23,17 @@ I am particularly interested in how models behave once they leave the benchmark 
 ### What I am working on
 
 - **Research collaboration.** Contributing as a co-author on a clinical-translation study in medical imaging, working on data preparation, evaluation scripts, and error analysis.
-  <!-- 具体做了什么就写什么，一两句就够；不要写没做过的事 -->
 - **Learning.** Currently studying: deep learning fundamentals, medical image processing, and evaluation methodology (external vs. internal validation).
 - **Tools.** Python · PyTorch · NumPy · pandas · Git
 
 ---
 
-
 ### Awards
 
-**National Conference High Distinction — CTB Global Youth Research and Innovation Conference, China National Final (2025)**
+**National Conference High Distinction** — CTB Global Youth Research and Innovation Conference, China National Final (2025)
+
 Research project on the employment challenges faced by visually impaired individuals in Hong Kong.
+
 ---
 
 ### Interests
